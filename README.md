@@ -34,6 +34,7 @@ Restante: 0
 
 <h2>Outros Hinários</h2>
 
+* [Hinário em Dó](https://github.com/neneias/ccb-hinario-5-do)
 * [Hinário em Ré](https://github.com/neneias/ccb-hinario-5-re)
 * [Hinário em Mi bemol - 2ª Clave de Sol](https://github.com/neneias/ccb-hinario-5-mib-2s)
 * [Hinário em Fá](https://github.com/neneias/ccb-hinario-5-fa)
